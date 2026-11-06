@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "mamba-us-import-records-buyer-finder": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@mambalabsdev/mcp-us-import-records-buyer-finder"
+      ],
+      "env": {
+        "APIFY_TOKEN": "your-apify-token"
+      }
+    }
+  }
+}

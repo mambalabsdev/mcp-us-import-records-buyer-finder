@@ -1,0 +1,33 @@
+{
+  "name": "mcp-us-import-records-buyer-finder",
+  "displayName": "US Import Records Buyer Finder",
+  "version": "1.0.0",
+  "description": "MCP server for US Import Records Buyer Finder. US importers and suppliers from customs bill of lading records. Runs on Apify. Clay-ready output.",
+  "author": {
+    "name": "Mamba Labs",
+    "email": "labs@mambamindsetgrowth.com"
+  },
+  "homepage": "https://mambabuilt.com",
+  "repository": "https://github.com/mambalabsdev/mcp-us-import-records-buyer-finder",
+  "license": "MIT",
+  "category": "productivity",
+  "tags": [
+    "import-records",
+    "bill-of-lading",
+    "customs-data",
+    "importers",
+    "suppliers",
+    "supply-chain"
+  ],
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "import-records",
+    "bill-of-lading",
+    "customs-data",
+    "importers",
+    "suppliers",
+    "supply-chain"
+  ],
+  "mcpServers": ".mcp.json"
+}
