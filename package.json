@@ -1,6 +1,6 @@
 {
   "name": "@mambalabsdev/mcp-us-import-records-buyer-finder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MCP server for US Import Records Buyer Finder. US importers and suppliers from customs bill of lading records. Runs on Apify. Clay-ready output.",
   "type": "module",
   "bin": {
