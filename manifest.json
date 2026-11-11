@@ -1,7 +1,7 @@
 {
   "manifest_version": "0.3",
   "name": "mcp-us-import-records-buyer-finder",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "MCP server for US Import Records Buyer Finder. US importers and suppliers from customs bill of lading records. Runs on Apify. Clay-ready output.",
   "author": {
     "name": "Mamba Labs"
